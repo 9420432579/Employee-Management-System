@@ -1,0 +1,69 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "view",
+      "request": "launch",
+      "mainClass": "Employee_management_system.view",
+      "projectName": "New folder (3)_ef2c08de"
+    },
+    {
+      "type": "java",
+      "name": "delete",
+      "request": "launch",
+      "mainClass": "Employee_management_system.delete",
+      "projectName": "New folder (3)_ef2c08de"
+    },
+    {
+      "type": "java",
+      "name": "index",
+      "request": "launch",
+      "mainClass": "Employee_management_system.index",
+      "projectName": "New folder (3)_ef2c08de"
+    },
+    {
+      "type": "java",
+      "name": "v",
+      "request": "launch",
+      "mainClass": "Employee_management_system.v",
+      "projectName": "New folder (3)_ef2c08de"
+    },
+    {
+      "type": "java",
+      "name": "dashbord",
+      "request": "launch",
+      "mainClass": "Employee_management_system.dashbord",
+      "projectName": "New folder (3)_ef2c08de"
+    },
+    {
+      "type": "java",
+      "name": "View",
+      "request": "launch",
+      "mainClass": "Employee_management_system.View",
+      "projectName": "New folder (3)_ef2c08de"
+    },
+    {
+      "type": "java",
+      "name": "add",
+      "request": "launch",
+      "mainClass": "Employee_management_system.add",
+      "projectName": "New folder (3)_ef2c08de"
+    },
+    {
+      "type": "java",
+      "name": "Login",
+      "request": "launch",
+      "mainClass": "Employee_management_system.Login",
+      "projectName": "New folder (3)_ef2c08de"
+    },
+    {
+      "type": "java",
+      "name": "Launch Login",
+      "request": "launch",
+      "mainClass": "Employee_management_system.Login",
+      "projectName": "Employee_management_system",
+      "vmArgs": "-cp .;lib/mysql-connector-j-8.3.0.jar"
+    }
+  ]
+}
